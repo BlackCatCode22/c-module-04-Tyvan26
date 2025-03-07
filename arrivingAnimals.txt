@@ -1,0 +1,6 @@
+Max, 5, Hyena
+Leo, 3, Lion
+Shere Khan, 7, Tiger
+Baloo, 10, Bear
+Zuri, 2, Hyena
+Simba, 4, Lion
