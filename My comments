@@ -1,0 +1,5 @@
+First off I appologize if I was supposed to have the arrivingAnimals and the main "animal.cpp" file together as the arrivingAnimals was the input file. But the code works and the output file gives out the neccessary information about the animals.
+At the beginning I established the classes like the Hyena and Lion of example. This made be able to attach strings to give them their info, like their age and name.
+Next was pairing the information with arriving animals to the source code. This was the creation of the input file neccessary to this code.
+I ran into trouble properly linking the code with the inputfile, but with lots of trial and error I figured it out.
+The output file and created and left empty for the code to write it out giving the animal details and count.
